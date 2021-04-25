@@ -1,2 +1,2 @@
-# practica-2
-webs dinamiques
+# practicanum1
+Pràctica número 1 
